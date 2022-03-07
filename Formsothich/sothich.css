@@ -1,0 +1,101 @@
+.color {
+   background-color: #fff;
+   border: 10px solid rgb(0, 255, 76);
+   
+   display: inline-block ;
+   
+
+}
+button {
+    padding: 5px 15px;
+}
+
+#favorite {
+    margin: 0 auto;
+    width: 800px;
+}
+
+.favorite {
+    
+    background-color: #ff4c00;
+    padding: 10px;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.form-favorite {
+    width: 100%;
+    padding: 10px;
+}
+
+.row {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.div-left {
+    width: 20%;
+    float: left;
+}
+
+.div-right {
+    width: 80%;
+    float: left;
+}
+
+.input-text {
+    width: 80%;
+}
+
+.cb-favorite {
+    margin-left: 20px;
+}
+
+.col-3 {
+    width: 33%;
+    float: left;
+}
+.studen--form {
+    height: 500px;
+    width: 500px;
+    background: yellow;
+    padding: 20px;
+    margin-top: 20px;
+}
+.studen--form h3 {
+    background: greenyellow;
+    color: blue;
+    margin-top: 0;
+}
+.studen--form span {
+    display: block;
+    margin-bottom: 20px;
+}
+.studen--form label:first-child {
+    color: blue;
+}
+.studen--form input {
+
+    margin-left: 50px;
+}
+.studen--form input {
+    width: 235px;
+}
+.studen--form select {
+    margin-left: 90px;
+}
+.studen--form textarea {
+    margin-left: 70px;
+}
+.form--button button {
+    background: rgb(8, 8, 8);
+    color: wheat;
+}
+.form--button button:first-child {
+    margin-left: 118px;
+
+}
+
+
